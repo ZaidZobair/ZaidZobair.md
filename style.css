@@ -1,0 +1,72 @@
+html {
+    scroll-behavior: smooth;
+
+}
+
+figure {
+    line-height: 0;
+}
+
+body {
+
+    margin: 0;
+}
+
+nav {
+    display: block;
+    font-family: bebas-neue-pro, sans-serif;
+    font-weight: 400;
+    font-style: bold;
+    font-size: 1.5em;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+
+a {
+    text-decoration: none;
+    font-family: bebas-neue-pro, sans-serif;
+    font-weight: 600;
+    font-style: bold;
+    font-size: 1.25em;
+    color: black;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 5%;
+    color: black;
+}
+
+.logo {
+    width: 20%;
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+
+.logo img {
+    width: 100%;
+
+}
+
+.indexfigure {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.indexfigure img {
+    width: 60%;
+}
+
+p {
+    font-family: 'Praise', cursive, sans-serif;
+    font-size: 10em;
+    text-align: center;
+    position: relative;
+    bottom: 600px;
+}
